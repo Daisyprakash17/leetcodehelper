@@ -1,0 +1,19 @@
+.first{
+
+    background-color: bisque;
+    text-align: center;
+    margin: 0 auto;
+    height: 50px;
+    width: 200px;
+}
+.second{
+
+    background-color:aqua;
+    text-align: center;
+    margin: 0 auto;
+    height: 50px;
+    width: 200px;
+}
+.container{
+    text-align: center; 
+}
